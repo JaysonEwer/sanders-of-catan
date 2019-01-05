@@ -4,7 +4,7 @@
 
 ## Improving on perfection
 
-Klaus Teuber's (*Settlers of*) *Catan* is an award-winning strategy board game loved by millions. However, a game of Catan can run long and can be one-sided from the outset. In order to address these minor shortcomings, Sanders of Catan was developed.
+Klaus Teuber's [(*Settlers of*) *Catan*](https://www.catan.com/) is an award-winning strategy board game loved by millions. However, a game of Catan can run long and can be one-sided from the outset. In order to address these minor shortcomings, Sanders of Catan was developed.
 
 *Sanders of Catan* aims to make the game faster and encourage parity among the players, regardless of experience, board, or dice.
 
@@ -33,7 +33,7 @@ The gray robber piece is renamed "The Taxman" and  remains on the Desert tile fo
 2. The player with the most cards (the "richest player") selects half of his or her cards to forfeit, rounded down
 3. The forfeited cards are shuffled and placed face-down on the table
 4. The other players take turns drawing from the forfeited pile in a clock-wise manner until the pile is exhausted
-5. When drawing a card from the forfeit pile, players say "Feel the Bern"
+5. When drawing a card from the forfeit pile, players say ["Feel the Bern"](https://www.youtube.com/watch?v=dzgBkpY-6mE), not to be confused with ["Feel the burn"](https://en.wiktionary.org/wiki/feel_the_burn).
 
 **Example**
 
@@ -43,4 +43,4 @@ The gray robber piece is renamed "The Taxman" and  remains on the Desert tile fo
 
 "*Sanders of Catan*" was coined by Carl Parkin. The rules were fine tuned by Carl and his wife Tayler with the help of Sean and Anne McPherson.
 
-*Sanders of Catan* was inspired by Sen. Bernie Sanders' (I-VT) 2016 Presidential campaign. *Sanders of Catan* is not (yet) endorsed by Sen. Sanders.
+*Sanders of Catan* was inspired by [Sen. Bernie Sanders'](https://berniesanders.com/about/) (I-VT) 2016 Presidential campaign. *Sanders of Catan* is not (yet) endorsed by Sen. Sanders.
